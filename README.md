@@ -132,4 +132,4 @@ This project is licensed under the MIT License.
 
 ## Image Reference
 
-<img src="Project File Structure.png" alt="Project File Structure" width="400" height="300">
+<img src="Project File Structure.png" alt="Project File Structure" width="800" height="600">
