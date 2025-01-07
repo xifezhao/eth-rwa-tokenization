@@ -68,8 +68,8 @@ This project showcases the development of several key components often found in 
 1.  Clone the repository:
 
     ```bash
-    git clone [repository_url]
-    cd [repository_name]
+    git clone https://github.com/xifezhao/eth-rwa-tokenization.git
+    cd eth-rwa-tokenization
     ```
 
 2.  Install dependencies:
