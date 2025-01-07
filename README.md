@@ -132,12 +132,5 @@ This project is licensed under the MIT License.
 
 ## Image Reference
 
-The image you provided (`截屏2025-01-07 23.48.28.png`) shows the file structure of this project, which includes:
-
-*   `DAOContract.sol`
-*   `MyERC20Token.sol`
-*   `MyERC721NFT.sol`
-*   `TokenStaking.sol`
-
-This image helps to visualize the project's organization.
+*   `SCALABLE & SECURE RWA TOKENIZATION USING ETH & L-2`
 
