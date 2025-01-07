@@ -132,5 +132,5 @@ This project is licensed under the MIT License.
 
 ## Image Reference
 
-![Project File Structure](SCALABLE & SECURE RWA TOKENIZATION USING ETH & L-2)
+![Project File Structure](SCALABLE & SECURE RWA TOKENIZATION USING ETH & L-2.png)
 
