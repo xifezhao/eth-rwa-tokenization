@@ -1,4 +1,4 @@
-# Smart Contract Project: DAO, ERC20, ERC721, and Staking
+# Smart Contract Project: DAO, ERC20, ERC721, and Staking for paper Scalable & Secure Real-World Asset Tokenization using Ethereum Staking & L2 Solutions
 
 This repository contains a collection of Solidity smart contracts for a decentralized application (dApp), focusing on a Decentralized Autonomous Organization (DAO), an ERC20 token, an ERC721 NFT, and a staking mechanism.
 
