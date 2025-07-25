@@ -205,7 +205,7 @@ Zhao, X., Ding, J., Su, Y., Wang, H., Guo, F., Zhang, Q., & Mu, M. (2025). Scala
 If you use this code or find the accompanying paper useful in your research, please consider citing it:
 
 ```bibtex
-@article{RN13531,
+@article{ZhaoXF2025Sep,
    author = {Zhao, Xiaofei and Ding, Jieqiong and Su, Yunqi and Wang, Hua and Guo, Fanglin and Zhang, Qianggang and Mu, Mingyang},
    title = {Scalable & secure real-world asset tokenization using ethereum staking & layer-2 solutions},
    journal = {Peer-to-Peer Networking and Applications},
