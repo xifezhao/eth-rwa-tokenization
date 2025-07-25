@@ -200,9 +200,26 @@ This project is licensed under the MIT License.
 
 This repository accompanies the research paper:
 
-Zhao, X., Ding, J., Su, Y., Wang, H., Guo, F., Zhang, Q., & Mu, M. (2025, April). *Scalable & Secure Real-World Asset Tokenization using Ethereum Staking & Layer-2 Solutions*. [Preprint]. Research Square. DOI: [10.21203/rs.3.rs-5759969/v1](https://doi.org/10.21203/rs.3.rs-5759969/v1)
+Zhao, X., Ding, J., Su, Y., Wang, H., Guo, F., Zhang, Q., & Mu, M. (2025). Scalable & secure real-world asset tokenization using ethereum staking & layer-2 solutions. *Peer-to-Peer Networking and Applications*, *18*(5), 254. [https://doi.org/10.1007/s12083-025-02032-6](https://doi.org/10.1007/s12083-025-02032-6)
 
-If you use this code or find the accompanying paper useful in your research, please consider citing it.
+If you use this code or find the accompanying paper useful in your research, please consider citing it:
+
+```bibtex
+@article{RN13531,
+   author = {Zhao, Xiaofei and Ding, Jieqiong and Su, Yunqi and Wang, Hua and Guo, Fanglin and Zhang, Qianggang and Mu, Mingyang},
+   title = {Scalable & secure real-world asset tokenization using ethereum staking & layer-2 solutions},
+   journal = {Peer-to-Peer Networking and Applications},
+   volume = {18},
+   number = {5},
+   pages = {254},
+   abstract = {Real-world asset (RWA) tokenization holds immense promise for revolutionizing financial markets, but existing solutions face a critical bottleneck: the simultaneous need for scalability, security, and decentralized governance. Many platforms prioritize one or two of these, often at the expense of the others. Scalability and security challenges hinder its widespread adoption. This paper proposes a novel framework leveraging Ethereum staking and Layer-2 scaling solutions to address these limitations. Our framework utilizes a hybrid token standard (ERC-20/ERC-721) for representing diverse asset classes and incorporates a robust due diligence process. Uniquely, ETH staking is integrated to incentivize validators and secure the Layer-2 network, which employs Optimistic Rollups for enhanced transaction throughput and reduced costs. A decentralized oracle network provides secure real-world data feeds, while a Decentralized Autonomous Organization (DAO) governs the platform. The parameters of core system such as reward mechanism, slashing and oracle are determined by DAO. The framework acknowledges and addresses the complex and evolving regulatory landscape surrounding RWA tokenization, including considerations related to asset classification, KYC/AML compliance, and jurisdictional variations. A comprehensive security analysis identifies and mitigates potential vulnerabilities, focusing on smart contract security, oracle manipulation, and Layer-2 attacks. A case study demonstrates the practical application of the framework for metering electricity consumption in appliances. Experimental results, based on a simulated blockchain environment, validate the framework’s feasibility and efficiency, achieving significant improvements in transaction throughput and gas cost reductions compared to traditional Layer-1 solutions. These results demonstrate the potential of the framework to address the key challenges of RWA tokenization. We discuss the framework’s advantages and limitations, highlighting its novel combination of staking for Layer-2 security and a DAO-governed approach, and analyze its potential to democratize access to RWAs, enhance liquidity, and streamline asset management processes. Future research directions include exploring alternative Layer-2 solutions, enhancing security measures, and investigating interoperability with other blockchain platforms.},
+   ISSN = {1936-6450},
+   DOI = {10.1007/s12083-025-02032-6},
+   url = {https://doi.org/10.1007/s12083-025-02032-6},
+   year = {2025},
+   type = {Journal Article}
+}
+```
 
 ---
 
